@@ -69,6 +69,8 @@ Với template này, bạn chỉ cần thay các tùy chỉnh bên dưới thàn
 
 Vậy là chỉ với vài bước đơn giản, bạn đã có thể tạo ra một hình ảnh hộp đồ chơi figure mang phong cách riêng bằng AI. Hãy thử ngay và chia sẻ thành quả của mình với bạn bè nhé. Chúc bạn thực hiện thành công và có tấm ảnh như ý.
 
+## Author
+Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
 
 
 
